@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HELLO&fontAlignY=20&fontAlign=70&desc=I'm%20JYANSOONY&descSize=20&descAlign=75&descAlignY=40&rotate=20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HELLO&fontSize=50&fontAlignY=20&fontAlign=70&desc=I'm%20JYANSOONY&descSize=20&descAlign=75&descAlignY=40&rotate=20&fontSize=90)
 
  <div align=center>
  
