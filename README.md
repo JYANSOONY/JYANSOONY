@@ -1,4 +1,29 @@
-### Hi there 👋
+### 안녕하세요! 👋
+
+<br>
+
+### 📫 Skill  
+  <!-- 자바 -->
+  <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white">
+  <!-- 자바스크립트 -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
+  <!-- React.js -->
+  <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=white">
+  
+<br>
+
+### 📖 Certificate
+
+|Certificate|Date|Organization|
+|:---:|:---:|:---:|
+|정보처리기사|2021.08|한국산업인력공단|
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYANSOONY&theme=buefy&show_icons=true)](https://github.com/JYANSOONY/github-readme-stats)
+
+<br>
+<br>
 
 <!--
 **JYANSOONY/JYANSOONY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
