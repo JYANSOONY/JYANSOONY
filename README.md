@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HELLO&fontAlignY=20&fontAlign=70&desc=I'm%20JYANSOONY&descAlign=70&descAlignY=40&rotate=20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HELLO&fontAlignY=20&fontAlign=70&desc=I'm%20JYANSOONY&descAlign=75&descAlignY=40&rotate=20&fontSize=90)
 
 ### 안녕하시렵니까🤗
 
