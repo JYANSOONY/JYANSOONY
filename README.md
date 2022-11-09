@@ -18,6 +18,11 @@
   
 <br>
 
+
+### 🌱 Study
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<br>
+
 ### 📖 Certificate
 
 |Certificate|Date|Organization|
