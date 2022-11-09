@@ -20,7 +20,7 @@
 
 
 ### 🌱 Study
-<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Security-6DB33F?logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-59666C?logo=Hibernate&logoColor=white"> <<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <br>
 
 ### 📖 Certificate
